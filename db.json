@@ -1,22 +1,64 @@
 {
-    "movies": [
-        {
-            "id": 1,
-            "name": "Aquaman",
-            "releaseDate": "2018-12-07",
-            "description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world."
-        },
-        {
-            "id": 2,
-            "name": "Bumblebee",
-            "releaseDate": "2018-12-15",
-            "description": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug."
-        },
-        {
-            "id": 3,
-            "name": "Fantastic Beasts: The Crimes of Grindelwald",
-            "releaseDate": "2018-11-14",
-            "description": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world."
-        }
-    ]
+  "movies": [
+    {
+      "id": 1,
+      "name": "Aquaman",
+      "releaseDate": "2018-12-07",
+      "description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world."
+    },
+    {
+      "id": 2,
+      "name": "Bumblebee",
+      "releaseDate": "2018-12-15",
+      "description": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug."
+    },
+    {
+      "id": 3,
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "releaseDate": "2018-11-14",
+      "description": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world."
+    },
+    {
+      "id": 4,
+      "name": "A Star Is Born",
+      "releaseDate": "2018-10-03",
+      "description": "Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons."
+    },
+    {
+      "id": 5,
+      "name": "Mary Poppins Returns",
+      "releaseDate": "2018-12-19",
+      "description": "In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives."
+    },
+    {
+      "id": 6,
+      "name": "Bird Box",
+      "releaseDate": "2018-12-13",
+      "description": "When a mysterious force decimates the world’s population, only one thing is certain: if you see it, you take your life. Facing the unknown, Malorie finds love, hope and a new beginning only for it to unravel. Now she must flee with her two children down a treacherous river to the one place left that may offer sanctuary. But to survive, they'll have to undertake the perilous two-day journey blindfolded."
+    },
+    {
+      "id": 7,
+      "name": "Venom",
+      "releaseDate": "2018-09-28",
+      "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own."
+    },
+    {
+      "id": 404368,
+      "name": "Ralph Breaks the Internet",
+      "releaseDate": "2018-11-20",
+      "description": "Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure."
+    },
+    {
+      "id": 166428,
+      "name": "How to Train Your Dragon: The Hidden World",
+      "releaseDate": "2019-01-03",
+      "description": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind."
+    },
+    {
+      "id": 450465,
+      "name": "Glass",
+      "description": "Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "releaseDate": "2019-01-16"
+    }
+  ]
 }
